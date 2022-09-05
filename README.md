@@ -3,6 +3,4 @@ Its basically working on an opportunity area, cause human developement is preced
 It can be accessed - Azure URL: https://portal.azure.com/?Microsoft_Azure_Education_correlationId=8bd810439a874a618bc222f6fc5928fa#@rufus19091mechssnedu.onmicrosoft.com/resource/subscriptions/f9555b8d-bbc1-4861-8107-9d00c6857eef/resourceGroups/Planet_E/providers/Microsoft.BotService/botServices/globalawareness-bot/overview
 Messaging endpoint: https://globalawareness-bot-ad75.azurewebsites.net/api/messages
 Linked app service: globalawareness-bot-ad75
-User name: rufus19091@mech.ssn.edu.in
-Password : Derrick@2002
 Youtube Demo URL: https://youtube.com/shorts/fiKoi9Tj-kA?feature=share
